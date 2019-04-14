@@ -1,0 +1,8 @@
+package.json
+package-lock.json
+node_modules/
+.fusebox/
+deploy/
+server/
+public/
+FE/app/types/operation-result-types.ts
